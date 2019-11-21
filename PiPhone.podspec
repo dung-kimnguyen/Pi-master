@@ -10,7 +10,7 @@ PiPhone is a drop in solution to support picture-in-picture (user-initiated play
   s.homepage         = 'https://github.com/james.lee/PiPhone'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'james.lee' => 'james.lee@yandex.ru' }
+  s.author           = { 'james.lee' => 'james.lee@mail.com' }
   s.source           = { :git => 'https://github.com/james.lee/PiPhone.git', :tag => s.version.to_s }
 
   s.platform = :ios
