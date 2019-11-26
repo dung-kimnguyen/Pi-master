@@ -158,7 +158,5 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 - [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers "iOS-Runtime-Headers"): iOS Objective-C headers as derived from runtime introspection
 - [GKPictureInPictureView](https://github.com/gklka/GKPictureInPictureView "GKPictureInPictureView"): FaceTime/iOS PiP like throwable view
 
-## License
 
-PiPhone is available under the MIT license. See the LICENSE file for more info.
 
