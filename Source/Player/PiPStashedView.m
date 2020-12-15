@@ -3,7 +3,7 @@
 //  PiPhone
 //
 //  Created by james.lee on 06.04.2019.
-//  Copyright © 2019 james.lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe All rights reserved.
 //
 
 #import "PiPStashedView.h"

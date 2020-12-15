@@ -3,7 +3,7 @@
 //  PiPhone
 //
 //  Created by james.lee on 01.04.2019.
-//  Copyright © 2019 james.lee. All rights reserved.
+//  Copyright © 2019 Nocero Beguhe All rights reserved.
 //
 
 #import "PiPWindow.h"
@@ -32,10 +32,10 @@
         self.autoresizingMask = UIViewAutoresizingFlexibleWidth | UIViewAutoresizingFlexibleHeight;
         self.hidden = NO;
         self.rootViewController = [[PiPRootViewController alloc] init];
-        
+
         self.rootViewController.view.frame = self.bounds;
     }
-    
+
     return self;
 }
 
