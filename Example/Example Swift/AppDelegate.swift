@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  PiPhone Example
 //
-//  Created by james.lee on 10.04.2019.
+//  Created by nocero.lee on 10.04.2019.
 //  Copyright © 2019 Nocero Beguhe All rights reserved.
 //
 

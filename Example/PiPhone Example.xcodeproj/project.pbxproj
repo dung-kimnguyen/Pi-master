@@ -125,7 +125,7 @@
 			attributes = {
 				LastSwiftUpdateCheck = 1010;
 				LastUpgradeCheck = 1010;
-				ORGANIZATIONNAME = james.lee;
+				ORGANIZATIONNAME = nocero.lee;
 				TargetAttributes = {
 					605D55BE225E447F00F11C2A = {
 						CreatedOnToolsVersion = 10.1;

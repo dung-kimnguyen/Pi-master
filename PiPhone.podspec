@@ -7,11 +7,11 @@ Pod::Spec.new do |s|
 PiPhone is a drop in solution to support picture-in-picture (user-initiated playback of video in a floating, resizable window) on iPhone devices.
                        DESC
 
-  s.homepage         = 'https://github.com/james.lee/PiPhone'
+  s.homepage         = 'https://github.com/nocero.lee/PiPhone'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'james.lee' => 'james.lee@mail.com' }
-  s.source           = { :git => 'https://github.com/james.lee/PiPhone.git', :tag => s.version.to_s }
+  s.author           = { 'nocero.lee' => 'nocero.lee@mail.com' }
+  s.source           = { :git => 'https://github.com/nocero.lee/PiPhone.git', :tag => s.version.to_s }
 
   s.platform = :ios
   s.ios.deployment_target = '9.0'
