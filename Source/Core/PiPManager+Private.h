@@ -2,7 +2,7 @@
 //  PiPManager+Private.h
 //  PiPhone
 //
-//  Created by nocero.lee on 11.04.2019.
+//  Created by nocero.beguhe on 11.04.2019.
 //
 
 #import "PiPManager.h"

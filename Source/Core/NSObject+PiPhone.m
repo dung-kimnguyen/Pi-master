@@ -2,7 +2,7 @@
 //  NSObject+PiPhone.m
 //  PiPhone
 //
-//  Created by nocero.lee on 12.04.2019.
+//  Created by nocero.beguhe on 12.04.2019.
 //
 
 #import "NSObject+PiPhone.h"
