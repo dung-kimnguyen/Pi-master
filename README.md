@@ -1,9 +1,4 @@
 # PiPhone
-
-[![Version](https://img.shields.io/cocoapods/v/PiPhone.svg?style=flat)](http://cocoapods.org/pods/PiPhone)
-[![License](https://img.shields.io/cocoapods/l/PiPhone.svg?style=flat)](http://cocoapods.org/pods/PiPhone)
-[![Platform](https://img.shields.io/cocoapods/p/PiPhone.svg?style=flat)](http://cocoapods.org/pods/PiPhone)
-
 PiPhone is a drop in solution to support picture-in-picture (user-initiated playback of video in a floating, resizable window) on iPhone devices. It's designed to mimic default `AVPictureInPictureController` behavior as much as possible.
 
 ## Overview
@@ -25,14 +20,6 @@ PiPhone is a drop in solution to support picture-in-picture (user-initiated play
 
 * Xcode 8.0+
 * iOS 9.0+
-
-## Installation
-
-PiPhone is available through [CocoaPods](http://cocoapods.org). To install it, simply add the following line to your Podfile:
-
-```ruby
-pod 'PiPhone'
-```
 
 ## Usage
 
@@ -148,15 +135,4 @@ PiPManager.isPictureInPicturePossible = false
 - Investigate whether `PiPPictureInPictureController` should become a `AVPictureInPictureController` subclass
 - Implement rotation gesture, add 'soft' deceleration for pinch gesture
 - Improve automatic insets calculation
-
-## Example
-
-To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Thanks & Credits
-
-- [iOS-Runtime-Headers](https://github.com/nst/iOS-Runtime-Headers "iOS-Runtime-Headers"): iOS Objective-C headers as derived from runtime introspection
-- [GKPictureInPictureView](https://github.com/gklka/GKPictureInPictureView "GKPictureInPictureView"): FaceTime/iOS PiP like throwable view
-
-
 
