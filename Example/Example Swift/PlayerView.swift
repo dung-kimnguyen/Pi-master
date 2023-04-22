@@ -3,7 +3,7 @@
 //  Example Swift
 //
 //  Created by nocero.beguhe on 11.04.2019.
-//  Copyright © 2019 Nocero Beguhe All rights reserved.
+//  Copyright © 2019 Dung Kim Nguyen All rights reserved.
 //
 
 import UIKit
